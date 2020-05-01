@@ -1,2 +1,2 @@
-# typescript
+# Typescript
 Typescript examples &amp; projects
